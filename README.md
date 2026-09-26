@@ -18,8 +18,8 @@
 
 <!-- Social & Contact Badges -->
 <p align="center">
-  <a href="mailto:inshulsingh@amityonline.com">
-    <img src="https://img.shields.io/badge/Email-inshulsingh%40amityonline.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:your_primary_email@domain.com" id="email-badge">
+    <img src="https://img.shields.io/badge/Email-Direct_Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/EduBolthey?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore_Projects-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
@@ -83,11 +83,6 @@ Current Obsession: Edge serverless workflows, high-throughput media pipelines, a
 
   <!-- Streak Stats in Tokyo Night -->
   <img src="https://streak-stats.demolab.com?user=EduBolthey&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakNum=00F2FE" alt="EduBolthey Streak Stats" />
-  
-  <br/><br/>
-
-  <!-- Contribution Wave Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EduBolthey&theme=tokyo-night&hide_border=true&area=true&color=00F2FE&custom_title=Contributions%20%26%20Commit%20Timeline" alt="EduBolthey Activity Graph" />
 
 </div>
 
