@@ -8,13 +8,6 @@
 <br/>
 
 <!-- Profile Badges & Stats Counter -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Specialization-Edge_Computing_%26_Automation-00f2fe?style=flat-square&labelColor=0f172a" alt="Specialization" />
-  <img src="https://img.shields.io/badge/Stack-Cloudflare_%7C_React_19_%7C_TypeScript-38bdf8?style=flat-square&labelColor=0f172a" alt="Stack" />
-  <a href="https://github.com/EduBolthey">
-    <img src="https://komarev.com/ghpvc/?username=EduBolthey&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
 
 <!-- Social & Contact Badges -->
 
