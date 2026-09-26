@@ -18,8 +18,8 @@
 
 <!-- Social & Contact Badges -->
 <p align="center">
-  <a href="mailto:your_primary_email@domain.com" id="email-badge">
-    <img src="https://img.shields.io/badge/Email-Direct_Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:inshulsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-inshulsingh%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/EduBolthey?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore_Projects-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
